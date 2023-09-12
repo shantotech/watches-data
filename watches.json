@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 77",
+      "price": 399.99
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Watch 44",
+      "price": 249.99
+    },
+    {
+      "id": 3,
+      "name": "Forerunner 9455555555",
+      "price": 599.99
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Sense",
+      "price": 299.95
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 22 Pro",
+      "price": 249.99
+    }
+  ]
+  
